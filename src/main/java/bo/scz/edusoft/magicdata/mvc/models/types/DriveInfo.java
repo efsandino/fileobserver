@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package bo.scz.edusoft.magicdata.model.type;
+package bo.scz.edusoft.magicdata.mvc.models.types;
 
 import bo.scz.edusoft.magicdata.utils.CommonFileUtils;
 

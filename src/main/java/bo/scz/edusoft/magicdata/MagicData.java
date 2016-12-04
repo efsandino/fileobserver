@@ -5,8 +5,8 @@
  */
 package bo.scz.edusoft.magicdata;
 
-import bo.scz.edusoft.magicdata.file.FileManager;
-import bo.scz.edusoft.magicdata.gui.MagicDataDesktop;
+import bo.scz.edusoft.magicdata.mvc.controllers.FileManager;
+import bo.scz.edusoft.magicdata.mvc.views.gui.MagicDataDesktop;
 import bo.scz.edusoft.magicdata.utils.ArgumentManager;
 
 /**

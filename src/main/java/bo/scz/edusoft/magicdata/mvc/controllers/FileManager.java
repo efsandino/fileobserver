@@ -4,9 +4,9 @@
  * and open the template in the editor.
  */
 
-package bo.scz.edusoft.magicdata.file;
+package bo.scz.edusoft.magicdata.mvc.controllers;
 
-import bo.scz.edusoft.magicdata.model.type.DriveInfo;
+import bo.scz.edusoft.magicdata.mvc.models.types.DriveInfo;
 import bo.scz.edusoft.magicdata.utils.CommonFileUtils;
 import java.io.File;
 import java.sql.DriverPropertyInfo;

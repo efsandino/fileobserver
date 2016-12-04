@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package bo.scz.edusoft.magicdata.gui;
+package bo.scz.edusoft.magicdata.mvc.views.gui;
 
 /**
  *
